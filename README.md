@@ -1,4 +1,4 @@
 Two-towers
 ==========
 
-Viska medžiaga susijusi su Gamedev
+Visa medžiaga susijusi su Gamedev
